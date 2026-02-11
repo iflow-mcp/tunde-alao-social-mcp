@@ -1,2 +1,2 @@
 [console_scripts]
-social-mcp = main:main
+social-mcp = iflow_mcp_tunde_alao_social_mcp.main:main

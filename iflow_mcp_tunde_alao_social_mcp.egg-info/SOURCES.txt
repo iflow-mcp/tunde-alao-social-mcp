@@ -1,6 +1,7 @@
 README.md
-main.py
 pyproject.toml
+iflow_mcp_tunde_alao_social_mcp/__init__.py
+iflow_mcp_tunde_alao_social_mcp/main.py
 iflow_mcp_tunde_alao_social_mcp.egg-info/PKG-INFO
 iflow_mcp_tunde_alao_social_mcp.egg-info/SOURCES.txt
 iflow_mcp_tunde_alao_social_mcp.egg-info/dependency_links.txt

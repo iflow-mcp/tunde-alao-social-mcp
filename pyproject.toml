@@ -1,6 +1,6 @@
 [project]
 name = "iflow-mcp_tunde-alao-social-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "MCP server for extracting transcripts from social media content"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -13,4 +13,4 @@ dependencies = [
 ]
 
 [project.scripts]
-social-mcp = "main:main"
+social-mcp = "iflow_mcp_tunde_alao_social_mcp.main:main"
