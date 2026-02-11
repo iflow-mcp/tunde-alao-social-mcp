@@ -1,2 +1,2 @@
 [console_scripts]
-social-mcp = main:mcp
+social-mcp = main:main

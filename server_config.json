@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"social\":{\"command\":\"uvx\",\"args\":[\"--from\",\"iflow-mcp_tunde-alao-social-mcp\",\"social-mcp\",\"--transport\",\"stdio\"],\"values\":{\"ASSEMBLYAI_API_KEY\":{\"type\":\"string\",\"title\":\"AssemblyAI API密钥\",\"description\":\"从https://www.assemblyai.com/获取API密钥\",\"default\":\"\"}}}}}"}

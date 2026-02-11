@@ -225,6 +225,10 @@ async def get_instagram_transcript(url: str, assemblyai_api_key: str = None) -> 
         return f"❌ Error processing Instagram content: {str(e)}"
 
 
-if __name__ == "__main__":
+def main():
     print("✅ Social MCP Server is now running and ready to process Instagram transcript requests")
     mcp.run(transport='stdio')
+
+
+if __name__ == "__main__":
+    main()
