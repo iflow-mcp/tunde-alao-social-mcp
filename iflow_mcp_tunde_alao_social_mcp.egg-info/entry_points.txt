@@ -1,0 +1,2 @@
+[console_scripts]
+social-mcp = main:mcp
